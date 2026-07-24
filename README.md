@@ -15,7 +15,7 @@ console (Team Melee/Archon Mode).
 - **Full split-screen campaign co-op.** All **60 campaign missions** are playable
   in two-player shared-control mode. Player 1 and Player 2 share the same faction,
   units, and resources, each with their own cursor and screen.
-- **Every mission unlocked from the start.**.
+- **Every mission unlocked from the start.**
 - **All cheats unlocked from the start.**
 - **Every scenario map selectable**, including two hidden ones:
   - **Resurrection IV** — a secret scenario normally locked behind completing everything in the game.
