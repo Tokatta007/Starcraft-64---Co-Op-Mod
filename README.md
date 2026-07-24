@@ -6,6 +6,8 @@ split-screen, shared-control co-op experience. Both players share one base, one
 economy, and one army, and can play through the entire campaign together on one
 console (Team Melee/Archon Mode).
 
+<img width="632" height="478" alt="Pic 1" src="https://github.com/user-attachments/assets/39b53af7-019f-4e9d-9997-aeb0fbd3c1bc" />
+
 ---
 
 ## What's included
@@ -24,6 +26,8 @@ console (Team Melee/Archon Mode).
 - **Dark Origins** — the secret bonus mission — is reachable too (through GameShark code below).
 - **Story Info** - Pre and post-mission text, briefings, and slideshows all work as intended!
 - **Hardware Ready** - You can play on both emulator or hardware. Play how you'd like!
+
+<img width="622" height="475" alt="Pic 2" src="https://github.com/user-attachments/assets/30ee84fa-4dcf-444a-89b3-11015ddef019" />
 
 ---
 
@@ -44,6 +48,8 @@ console (Team Melee/Archon Mode).
   3. The game will load **Dark Origins** instead. It plays normally.
   (The code sets the internal map index to `0x3B`, which is Dark Origins. Turn the
   code off afterward to return to normal level selection.)
+
+<img width="796" height="597" alt="Pic 3" src="https://github.com/user-attachments/assets/2f4d5582-5758-4f65-881f-aec3dd4a8d08" />
 
 ---
 
@@ -68,6 +74,8 @@ console (Team Melee/Archon Mode).
   the menu beep). These screens aren't used in this mod — there's no saving, and
   the scenario maps live on the Two-Player side — so they're disabled to keep the menu
   clean. This is by design, not a bug.
+
+<img width="508" height="382" alt="pic 4" src="https://github.com/user-attachments/assets/c2f35b9a-93c9-4866-95a5-f03ef6bbe232" />
 
 ---
 
