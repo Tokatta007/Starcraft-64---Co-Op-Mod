@@ -1,7 +1,7 @@
 # StarCraft 64 — Campaign Co-Op Mod (V1)
 -By Tokatta (if you want to reach me, message me on Discord ("Tokatta") 
 
-**Version 1.0 - Internal ROM name: STARCRAFT CO-OP V1
+Version 1.0 - Internal ROM name: STARCRAFT CO-OP V1
 
 A romhack that turns StarCraft 64's single-player campaign into a **two-player**,
 split-screen, shared-control co-op experience. Both players share one base, one
