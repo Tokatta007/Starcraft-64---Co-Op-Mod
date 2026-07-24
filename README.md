@@ -1,5 +1,5 @@
 # StarCraft 64 — Campaign Co-Op Mod (V1)
--By Tokatta (if you want to reach me, message me on Discord ("Tokatta") 
+-By Tokatta (if you want to reach me, message me on Discord)
 
 A romhack that turns StarCraft 64's single-player campaign into a **two-player**,
 split-screen, shared-control co-op experience. Both players share one base, one
@@ -63,11 +63,11 @@ console (Team Melee/Archon Mode).
   vanilla competitive two-player, keep an **unmodified** copy of the ROM for that.
 - The allied player's selection outline and some results-screen labels are cosmetic
   and may look slightly different from vanilla — this does not affect gameplay.
-- In these competitive modes, you share a base, and the player 2 slot is just an idol base
+- In these competitive modes, you share a base, and the player 2 slot is just an idle base
   with the worker bees endlessly collecting minerals until one team blows them up. 
 - **Progression/saving in co-op:** because the game treats co-op sessions as
   multiplayer internally, campaign progression is sadly **not saved** in co-op. This is why
-  every mission is unlocked from the start, and still play the whole game in Co-Op.
+  every mission is unlocked from the start.
 - **Story Co-Op mission list (Scenario / Load Saved tabs) are disabled.** On the
   campaign (Story Co-Op) mission list, the "Scenario" and "Load Saved" tabs are
   intentionally greyed out and cannot be selected (pressing left/right just plays the
