@@ -71,9 +71,8 @@ console (Team Melee/Archon Mode).
 - **Story Co-Op mission list — Scenario / Load Saved tabs are disabled.** On the
   campaign (Story Co-Op) mission list, the "Scenario" and "Load Saved" tabs are
   intentionally greyed out and cannot be selected (pressing left/right just plays the
-  the menu beep). These screens aren't used in this mod — there's no saving, and
-  the scenario maps live on the Two-Player side — so they're disabled to keep the menu
-  clean. This is by design, not a bug.
+  the menu beep). These screens aren't used in this mod. There's no saving, so these
+  additional menus aren't selectable to keep the menu clean. This is by design, not a bug.
 
 <img width="508" height="382" alt="pic 4" src="https://github.com/user-attachments/assets/c2f35b9a-93c9-4866-95a5-f03ef6bbe232" />
 
