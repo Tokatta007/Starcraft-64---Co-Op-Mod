@@ -68,7 +68,7 @@ console (Team Melee/Archon Mode).
 - **Progression/saving in co-op:** because the game treats co-op sessions as
   multiplayer internally, campaign progression is sadly **not saved** in co-op. This is why
   every mission is unlocked from the start, and still play the whole game in Co-Op.
-- **Story Co-Op mission list — Scenario / Load Saved tabs are disabled.** On the
+- **Story Co-Op mission list (Scenario / Load Saved tabs) are disabled.** On the
   campaign (Story Co-Op) mission list, the "Scenario" and "Load Saved" tabs are
   intentionally greyed out and cannot be selected (pressing left/right just plays the
   the menu beep). These screens aren't used in this mod. There's no saving, so these
